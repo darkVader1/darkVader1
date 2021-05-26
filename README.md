@@ -1,3 +1,3 @@
-# Welcome
+# Welcome to my GitHub Profile
 
-## just another computer engineer.
+## I'm just another computer engineer.
